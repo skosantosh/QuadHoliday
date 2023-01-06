@@ -1,0 +1,33 @@
+.div-main {
+	border: solid;
+	
+	margin: 30px 20px;
+	padding: 50px;
+	background-color: white;
+}
+
+.mb-3 {
+	padding: 1px;
+	border: none;
+}
+
+.lab-main {
+	width: 10%;
+	color: black;
+	text-align: right;
+}
+
+.form-control {
+	width: 80%;
+	float: right;
+	margin-right: 100px;
+}
+
+.update {
+	float: left;
+	margin-left: 400px;
+}
+
+.holiday {
+	margin-left: 5px;
+}
